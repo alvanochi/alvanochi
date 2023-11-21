@@ -22,6 +22,6 @@ An independent Software Engineer who loves to create and share projects about we
 </p>
 
 ### Reach me on
-- <a href="https://alvanocchi.link">alvanocchi.link</a>
+- <a href="https://alvan.my.id">alvan.my.id</a>
 - <a href="https://linkedin.com/in/alvanoh/">LinkedIn</a>
 - <a href="https://instagram.com/alvanocchi">Instagram</a>
