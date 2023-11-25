@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Alvan.
 
-An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I am a Student who needs to study. I've enjoyed JavaScript and make it the main language in creating a project.
 
 - 🔭 I am currently an undergraduate at <a href="http://ti.ft.uika-bogor.ac.id/">Ibn Khaldun University</a>.
 - 🌱 I’m currently learning about react native
